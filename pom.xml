@@ -54,6 +54,7 @@
             </configuration>
         </plugin>
     </plugins>
+		<finalName>sb-docker</finalName>
 </build>
 
 </project>
